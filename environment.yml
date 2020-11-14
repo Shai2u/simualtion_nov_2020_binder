@@ -1,0 +1,17 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3
+  - geopandas
+  - matplotlib
+  - descartes
+  - xlrd
+  - openpyxl
+  - ipywidgets
+  - plotly
+  - folium
+  - jupyter-dash
+  - panel
+  - networkx
+  - contextily
