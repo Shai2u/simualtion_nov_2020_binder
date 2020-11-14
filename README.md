@@ -2,7 +2,7 @@
 ## Technion Thesis Project Example 🌇
 
 
-Jupyter Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Shai2u/simualtion_nov_2020_binder/HEAD?filepath=simualtion_nov_2020_binder?urlpath=urlpath=/tree/ipynb)
+Jupyter Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Shai2u/simualtion_nov_2020_binder/HEAD?filepath=simualtion_nov_2020_binder?urlpath=tree/ipynb)
 
 Jupyterlab [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Shai2u/simualtion_nov_2020_binder/HEAD?urlpath=lab)
 
