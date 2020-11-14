@@ -1,8 +1,8 @@
 #!/bin/bash
 jupyter nbextension enable --py widgetsnbextension
-jupyter labextension install @jupyter-widgets/jupyterlab-manager \
-                             @jupyter-widgets/jupyterlab-manager plotlywidget \
-                             @jupyterlab/toc \
-                             jupyterlab-plotly
+jupyter labextension install @jupyter-widgets/jupyterlab-manager --minimize=False \
+                             @jupyter-widgets/jupyterlab-manager plotlywidget --minimize=False \
+                             @jupyterlab/toc --minimize=False \
+                             jupyterlab-plotly --minimize=False
 
 #EOF
