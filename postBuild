@@ -1,6 +1,8 @@
-
+#!/bin/bash
 jupyter nbextension enable --py widgetsnbextension
-jupyter labextension install @jupyter-widgets/jupyterlab-manager
-jupyter labextension install jupyterlab-plotly
-jupyter labextension install @jupyter-widgets/jupyterlab-manager plotlywidget
-jupyter labextension install @jupyterlab/toc
+jupyter labextension install @jupyter-widgets/jupyterlab-manager \
+                             @jupyter-widgets/jupyterlab-manager plotlywidget \
+                             @jupyterlab/toc \
+                             jupyterlab-plotly
+
+#EOF
